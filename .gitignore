@@ -17,3 +17,4 @@
 
 # Ignore my secret key
 .secret
+database.yml
